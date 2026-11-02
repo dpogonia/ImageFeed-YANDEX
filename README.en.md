@@ -23,8 +23,8 @@ UIKit, URLSession, WebKit, Kingfisher, ProgressHUD, SwiftKeychainWrapper, XCTest
 An Unsplash account is required, and the app keys belong in `AuthConfiguration`.
 
 ```bash
-git clone https://github.com/dpogonia/ImageFeed.git
-cd ImageFeed
+git clone https://github.com/dpogonia/ImageFeed-Yandex.git
+cd ImageFeed-Yandex
 open ImageFeed.xcodeproj
 ```
 
