@@ -23,8 +23,8 @@ UIKit, URLSession, WebKit, Kingfisher, ProgressHUD, SwiftKeychainWrapper, XCTest
 Нужен аккаунт Unsplash и ключи приложения в `AuthConfiguration`.
 
 ```bash
-git clone https://github.com/dpogonia/ImageFeed-Yandex.git
-cd ImageFeed-Yandex
+git clone https://github.com/dpogonia/ImageFeed-YANDEX.git
+cd ImageFeed-YANDEX
 open ImageFeed.xcodeproj
 ```
 
